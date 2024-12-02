@@ -1,0 +1,6 @@
+Configuration with of Consoles with CP boxes is as follow:
+
+- Test kit must be in assist and no release mode
+- Under Dev settings locate network settings: Single cable on
+- Turn of console and a CP box and turn the on simultaniosly until IP from CP box is not shown as a IP address of the console
+

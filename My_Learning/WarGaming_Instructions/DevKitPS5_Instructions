@@ -1,0 +1,194 @@
+For config:
+K230286 PS4 DevKit
+
+
+MAC(DEV): F8:46:1C:AC:4E:03
+MAC: F8:46:1C:AC:4E:02
+
+
+
+K230332 Xbox One Dev Kit
+
+MAC(DEV): 28:18:78:6D:D7:2A
+MAC: 28:18:78:6D:D7:29
+
+After that - please, return the task to SD.
+
+
+For config:
+
+K230265 PLAYSTATION®5 DEVELOPMENT KIT (DFI-D1000AAB) with PS5 DUALSENSE WIRELESS CONTROLLER 01K12300DQR10379611
+
+MAC: 5C:84:3C:2A:1F:E8
+
+MAC (DEV): 5C:84:3C:29:AF:AD{}
+
+After that - please, return the task to SD.
+
+For config:
+
+K230341 Xbox One X Devkit
+
+MAC: F0:6E:0B:36:8A:4A
+MAC (DEV1): F0:6E:0B:36:8A:4E
+MAC (DEV2): F0:6E:0B:36:8A:4B
+
+After that - please, return the task to SD.
+
+
+For config:
+
+K230341 Xbox One X Devkit
+
+MAC: F0:6E:0B:36:8A:4A
+MAC (DEV1): F0:6E:0B:36:8A:4E
+MAC (DEV2): F0:6E:0B:36:8A:4B
+
+After that - please, return the task to SD.
+
+
+For config:
+
+K230341 Xbox One X Devkit
+
+MAC: A0:4A:5E:22:5E:B5
+MAC (DEV1): A0:4A:5E:22:5E:B4
+MAC (DEV2): A0:4A:5E:22:5E:B7
+
+After that - please, return the task to SD.
+
+
+
+
+For config:
+
+Play Station 5 Development Kit
+
+MAC: 5C:96:66:D8:98:8C
+MAC(DEV): 5C:96:66:D8:96:7E
+
+After that - please, return the task to SD.
+
+
+Five Dev Kits are connected to a switch which is connect to the port 61.1 and to switch RS1-FL4-137
+All of the DevKits are in format of 10.151.183.*
+Example one of the kits:
+
+XBOX SERIES X DEV KIT
+
+Wired MAC: A0:4A:5E:22:5D:ED
+MAC(DEV1): A0:4A:5E:22:5D:EC
+MAC(DEV2): A0:4A:5E:22:5D:EF
+
+IP Address: 10.151.168.214
+
+
+
+
+For config:
+
+Xbox One X Devkit
+
+Wired MAC: F0:6E:0B:36:76:91
+MAC(DEV1): F0:6E:0B:36:76:92
+MAC(DEV2): F0:6E:0B:36:76:96
+
+After that - please, return the task to SD.
+
+
+For config:
+
+K230337 Xbox One X Devkit
+
+MAC: F0:6E:0B:36:8A:4A
+MAC (DEV1): F0:6E:0B:36:8A:4E
+MAC (DEV2): F0:6E:0B:36:8A:4B
+
+After that - please, return the task to SD.
+
+
+
+For config:
+K230337 Play Station 4 Devkit
+
+MAC (Wired): F8:46:1C:AC:6D:79
+MAC (DEV1): F8:46:1C:AC:6D:7A
+
+And:
+K230340 Xbox One X Devkit
+
+MAC (Wired): F0:6E:0B:36:8A:73
+MAC (DEV1): F0:6E:0B:36:8A:74
+MAC (DEV2): F0:6E:0B:36:8A:78
+
+After that - please, return the task to SD.
+
+
+
+
+For config:
+
+K230361 Xbox One X Devkit
+
+MAC: F0:6E:0B:36:8A:4A
+MAC (DEV1): F0:6E:0B:36:8A:4E
+MAC (DEV2): F0:6E:0B:36:8A:4B
+
+After that - please, return the task to SD.
+
+
+
+
+
+For config:
+
+K230270 PlayStation®5 Test Kit Bundle
+
+MAC: 78:C8:81:C8:C4:36
+MAC CP Box(Dev): 78:C8:81:C1:19:E7
+
+After that - please, return the task to SD.
+
+
+
+RS1-PS4D-320  - PS4 DevKit
+
+RS1-XB1XD-xxx - XBOX One X DevKit
+
+RS1-XB1D-xxx - Xbox One S DevKit
+
+RS1-XBS-xxx - Xbox Series X Devkit
+
+RS1-PS5D-xxx - PS5 DevKit
+
+
+
+For config:
+
+RS1-PS5D-376 PS5 DevKit
+
+MAC: 78:C8:81:89:5F:41
+MAC (Dev): 8:C8:81:88:3B:75
+
+After that - please, return the task to SD.
+
+
+
+
+For config:
+
+K240470 Play Station 5 Pro Test Kit Prototype [DAU-TVA18BK-J6] (includes Debug-Hub SN: K14300UET10292470) without Controller
+MAC: 9C:37:CB:51:29:9A
+MAC(DEV): 9C:37:CB:4E:11:84
+
+K240469 Play Station 5 Pro Test Kit Prototype [DAU-TVA18BK-J6] (includes Debug-Hub SN: K14300UET10292470) without Controller
+MAC: 9C:37:CB:51:29:95
+MAC(DEV): 9C:37:CB:4E:11:A8
+
+K240466 Play Station 5 Pro Test Kit Prototype [DAU-TVA18BK-J6] (includes Debug-Hub SN: K14300UET10292470) without Controller
+MAC: 9C:37:CB:51:29:91
+MAC(DEV): 9C:37:CB:4E:11:9C
+
+After that - please, return the task to SD.
+
+
